@@ -6,7 +6,7 @@ require (
 	github.com/coreos/etcd v3.3.3+incompatible
 	github.com/hashicorp/consul/api v1.1.0
 	github.com/hashicorp/vault/api v1.0.4
-	github.com/pkg/errors v0.8.1
+	github.com/pkg/errors v0.9.1
 	github.com/stretchr/testify v1.8.1
 	gopkg.in/yaml.v2 v2.4.0
 )
