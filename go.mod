@@ -1,7 +1,7 @@
 module github.com/heetch/confita
 
 require (
-	github.com/BurntSushi/toml v0.3.1
+	github.com/BurntSushi/toml v1.2.1
 	github.com/aws/aws-sdk-go v1.23.20
 	github.com/coreos/etcd v3.3.3+incompatible
 	github.com/hashicorp/consul/api v1.1.0
